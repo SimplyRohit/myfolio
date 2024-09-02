@@ -12,7 +12,7 @@ Welcome to **MyFolio**, a personal portfolio website built using Next.js. This w
 
 Screenshots
 
-![MyFolio Homepage](homepage.png)
+![MyFolio Homepage](/homepage.png)
 
 
 Homepage of MyFolio

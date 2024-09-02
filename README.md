@@ -25,6 +25,6 @@ Tech Stack
 
 Contact
 
-Rohit - your.email@example.com
+Rohit - rohitjaatjaat073@example.com
 
-Project Link: https://github.com/yourusername/myfolio
+Project Link: https://github.com/WasATrueWarrior/myfolio
